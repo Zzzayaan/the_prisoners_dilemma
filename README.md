@@ -1,4 +1,4 @@
-<h1> An Analysis into The <b>Prisoner's Dilemma</b><h1>
+<h1> An Analysis into The <b>Prisoner's Dilemma</b></h1>
 
 The prisoner's dilemma is a situation in <b>game theory</b> which shows how rational individuals might not cooperate (even if it is in their best interests to do so) and acting selfishly will lead to a suboptimal choice for both players. This paradox is often used by researchers to model and investigate how people decide to cooperate in certain markets. The prisoner's dilemma is usually studied when it is conducted as a <b>repeated game</b> which captures the idea that a player will have to take the consequences of their actions (sometimes known as their reputation) into account as this may affect the current and future actions of other players. 
 
@@ -86,7 +86,7 @@ plot.boxplot();
 
 
     
-![png](game_theory_files/game_theory_8_0.png)
+![png](the_prisoners_dilemma/game_theory_8_0.png)
     
 
 
